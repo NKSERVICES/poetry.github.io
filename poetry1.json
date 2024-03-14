@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Image 1",
-      "imagePath":require("https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/"),
+      "imagePath":"https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/",
     },
     {
       "id": 2,
