@@ -2,22 +2,22 @@
     {
       "id": 1,
       "name": "Image 1",
-      "imagePath":"https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/"
+      "imagePath":require("https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/"),
     },
     {
       "id": 2,
       "name": "Image 2",
-      "imagePath": "https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/"
+      "imagePath": "https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/",
     },
     {
       "id": 3,
       "name": "Image 3",
-      "imagePath": "https://pixabay.com/photos/flowers-meadow-sunlight-summer-276014/"
+      "imagePath": "https://pixabay.com/photos/flowers-meadow-sunlight-summer-276014/",
     },
     {
       "id": 4,
       "name": "Image 4",
-      "imagePath": "https://pixabay.com/photos/flowers-butterfly-19830/"
+      "imagePath": "https://pixabay.com/photos/flowers-butterfly-19830/",
     }
   ]
   
